@@ -19,7 +19,7 @@ As a system, I want a custom view plugin that displays the text â€œHello Worldâ€
 e.g MyPodPlugin
 
 - Step 3 - Select application kind
-SAP Fiori
+Full Stack Cloud Application
 
 - Step 4 - click the Create Dev space button
 
