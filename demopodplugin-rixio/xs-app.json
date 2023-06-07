@@ -1,0 +1,14 @@
+{
+  "welcomeFile": "/demopodplugin-rixio/index.html",
+  "authenticationMethod": "none",
+  "logout": {
+    "logoutEndpoint": "/do/logout"
+  },
+  "routes": [
+    {
+      "source": "^/demopodplugin-rixio/(.*)$",
+      "target": "$1",
+      "localDir": "webapp"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+	"components": [
+		{
+			"id": "demopodplugin-rixio",
+			"type": "VIEW_PLUGIN",
+			"allowMultipleInstances": true,
+			"name": "sap.custom.rixio.demopodplugin.demopodplugin-rixio.demopodplugin-rixio",
+			"propertyEditor": "sap.custom.rixio.demopodplugin.demopodplugin-rixio.demopodplugin-rixio.builder.PropertyEditor",
+			"i18n": "sap.custom.rixio.demopodplugin.demopodplugin-rixio.demopodplugin-rixio.i18n.i18n",
+            "productionProcessEnabled": true,
+           "productionProcessTitle": "demopodplugin-rixio",
+			"supportedPodTypes": ["WORK_CENTER","OPERATION","ORDER","OTHER"]
+		}   
+	]
+}
