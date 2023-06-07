@@ -160,4 +160,4 @@ e.g. /mypodplugin
 - Step 56 - Search for our newly created plugin
 e.g. mypodplugin
 
-NEWLY REGISTERED PLUIN NOT FOUND
+NEWLY REGISTERED PLUGIN NOT FOUND
